@@ -21,3 +21,7 @@ This project builds a time series forecasting solution using Facebook Prophet an
 🖥️ Interactive Streamlit dashboard to explore forecasts
 
 🔄 Deployed using ngrok, or can be run locally
+
+📑 **Project Report**: [Download PPT Report](Project_Report.pptx)
+
+🗂️ **Full Code & Dashboard**: Available in this repository
